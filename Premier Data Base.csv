@@ -1,141 +1,161 @@
-﻿Jornada,Equipo,Ubicacion,Goles Anotados ,Goles En Contra,Resultado,Puntos,Disparos Realizados ,Disparos Recibidos,Disparos a Puerta Realizados,Disparos a Puerta Recibidos,Faltas Cometidas,Faltas Recibidas,Tiros de Esquina a Favor,Tiros de Esquina en Contra,Tarjetas Amarillas ,Tarjetas Rojas
-1,Arsenal,Home,2,0,Ganado,3,18,9,6,3,8,2,17,14,2,0
-2,Arsenal,Away,2,0,Ganado,3,9,11,4,3,1,4,15,8,3,0
-3,Arsenal,Home,1,1,Empate,1,11,22,7,4,3,7,12,7,3,1
-4,Arsenal,Away,1,0,Ganado,3,7,15,4,5,6,7,10,13,3,0
-5,Arsenal,Away,2,2,Empate,1,5,33,3,11,2,8,10,7,4,1
-6,Arsenal,Home,4,2,Ganado,3,36,5,16,3,17,0,11,6,2,0
-7,Arsenal,Home,3,1,Ganado,3,29,8,6,2,13,1,10,9,0,0
-1,Aston Villa,Away,2,1,Ganado,3,15,14,3,3,3,5,11,18,2,0
-2,Aston Villa,Home,0,2,Perdido,0,11,9,3,4,4,1,8,15,1,0
-3,Aston Villa,Away,2,1,Ganado,3,10,9,5,3,4,1,21,13,5,0
-4,Aston Villa,Home,3,2,Ganado,3,17,6,8,2,6,2,10,12,1,0
-5,Aston Villa,Home,3,1,Ganado,3,9,10,4,4,6,5,11,16,3,0
-6,Aston Villa,Away,2,2,Empate,1,7,15,3,5,0,10,14,10,1,0
-7,Aston Villa,Home,0,0,Empate,1,11,10,1,4,6,3,12,11,1,0
-1,Bournemouth,Away,1,1,Empate,1,13,14,4,8,6,2,8,17,3,0
-2,Bournemouth,Home,1,1,Empate,1,16,14,4,5,8,9,19,8,2,0
-3,Bournemouth,Away,3,2,Ganado,3,17,18,7,8,4,8,1,6,1,0
-4,Bournemouth,Home,0,1,Perdido,0,19,10,7,3,6,3,16,9,6,0
-5,Bournemouth,Away,0,3,Perdido,0,19,19,6,13,9,3,12,10,4,0
-6,Bournemouth,Home,3,1,Ganado,3,14,9,6,3,7,4,19,12,2,0
-7,Bournemouth,Away,0,1,Perdido,0,17,6,2,2,9,0,14,12,1,0
-1,Brentford,Home,2,1,Ganado,3,9,14,5,6,4,7,6,15,1,0
-2,Brentford,Away,0,2,Perdido,0,8,19,2,8,4,9,7,10,3,0
-3,Brentford,Home,3,1,Ganado,3,20,18,7,6,2,8,10,7,2,0
-4,Brentford,Away,1,2,Perdido,0,8,18,5,7,3,12,3,9,1,0
-5,Brentford,Away,1,3,Perdido,0,6,23,6,10,4,9,9,11,1,0
-6,Brentford,Home,1,1,Empate,1,8,19,3,3,7,7,2,11,2,0
-7,Brentford,Home,5,3,Ganado,3,19,17,12,6,10,3,9,10,2,0
-1,Brighton,Away,3,0,Ganado,3,10,9,5,1,5,1,8,8,1,0
-2,Brighton,Home,2,1,Ganado,3,14,11,5,4,4,4,9,13,1,0
-3,Brighton,Away,1,1,Empate,1,22,11,4,7,7,3,7,12,2,0
-4,Brighton,Home,0,0,Empate,1,21,6,6,1,9,2,14,16,4,0
-5,Brighton,Home,2,2,Empate,1,14,4,3,3,9,1,12,11,3,0
-6,Brighton,Away,2,4,Perdido,0,15,15,5,7,2,8,8,11,2,0
-7,Brighton,Home,3,2,Ganado,3,11,13,4,3,4,7,14,10,2,0
-1,Chelsea,Home,0,2,Perdido,0,10,11,3,5,4,3,12,9,1,0
-2,Chelsea,Away,6,2,Ganado,3,14,12,8,4,5,5,13,13,3,0
-3,Chelsea,Home,1,1,Empate,1,13,9,7,3,4,5,9,13,4,0
-4,Chelsea,Away,1,0,Ganado,3,10,19,3,7,3,6,9,16,8,0
-5,Chelsea,Away,3,0,Ganado,3,12,15,5,7,5,6,9,17,2,0
-6,Chelsea,Home,4,2,Ganado,3,15,15,7,5,8,2,11,8,3,0
-7,Chelsea,Home,1,1,Empate,1,22,16,8,9,11,3,12,11,6,0
-1,Crystal Palace,Away,1,2,Perdido,0,14,9,6,5,7,4,15,6,5,0
-2,Crystal Palace,Home,0,2,Perdido,0,14,18,2,3,3,3,9,17,1,0
-3,Crystal Palace,Away,1,1,Empate,1,9,13,3,7,5,4,13,9,2,0
-4,Crystal Palace,Home,2,2,Empate,1,20,9,4,4,5,2,11,15,0,0
-5,Crystal Palace,Home,0,0,Empate,1,9,15,4,6,4,11,7,12,3,0
-6,Crystal Palace,Away,1,2,Perdido,0,17,8,5,2,8,5,11,13,1,0
-7,Crystal Palace,Home,0,1,Perdido,0,9,16,5,4,3,8,7,15,4,0
-1,Everton,Home,0,3,Perdido,0,9,10,1,5,1,5,8,8,1,1
-2,Everton,Away,0,4,Perdido,0,10,13,1,7,5,12,15,11,0,0
-3,Everton,Home,2,3,Perdido,0,18,17,8,7,8,4,6,1,2,0
-4,Everton,Away,2,3,Perdido,0,6,17,2,8,2,6,12,10,4,0
-5,Everton,Away,1,1,Empate,1,16,12,5,2,1,6,12,11,2,0
-6,Everton,Home,2,1,Ganado,3,8,17,2,5,5,8,13,11,2,0
-7,Everton,Home,0,0,Empate,1,8,14,2,3,0,10,12,8,1,0
-1,Fulham,Away,0,1,Perdido,0,10,14,2,5,8,7,10,12,3,0
-2,Fulham,Home,2,1,Ganado,3,18,10,6,4,7,5,14,13,2,0
-3,Fulham,Away,1,1,Empate,1,9,11,4,4,6,8,15,15,3,0
-4,Fulham,Home,1,1,Empate,1,21,11,5,3,3,2,15,18,2,0
-5,Fulham,Home,3,1,Ganado,3,22,15,11,4,6,0,16,8,6,0
-6,Fulham,Away,1,0,Ganado,3,14,11,2,1,5,6,15,11,4,0
-7,Fulham,Away,2,3,Perdido,0,11,20,4,7,3,8,10,4,1,0
-1,Ipswich,Home,0,2,Perdido,0,7,18,2,5,2,10,9,18,3,0
-2,Ipswich,Away,1,4,Perdido,0,1,14,1,5,1,10,15,4,3,0
-3,Ipswich,Home,1,1,Empate,1,11,9,4,4,8,6,15,15,2,0
-4,Ipswich,Away,0,0,Empate,1,6,21,1,6,2,9,16,14,3,0
-5,Ipswich,Away,1,1,Empate,1,13,11,6,3,10,2,16,16,4,0
-6,Ipswich,Home,2,2,Empate,1,15,7,5,3,10,0,10,14,4,0
-7,Ipswich,Away,1,4,Perdido,0,9,23,2,13,5,5,6,12,1,0
-1,Leicester,Home,1,1,Empate,1,7,15,3,7,2,13,11,12,1,0
-2,Leicester,Away,1,2,Perdido,0,10,18,4,6,5,7,13,14,2,0
-3,Leicester,Home,1,2,Perdido,0,9,10,3,5,1,4,13,21,4,0
-4,Leicester,Away,2,2,Empate,1,9,20,4,4,2,5,15,11,3,0
-5,Leicester,Home,1,1,Empate,1,12,16,2,5,6,1,11,12,1,0
-6,Leicester,Away,2,4,Perdido,0,5,36,3,16,0,17,6,11,4,0
-7,Leicester,Home,1,0,Ganado,3,6,17,2,2,0,9,12,14,4,0
-1,Liverpool,Away,2,0,Ganado,3,18,7,5,2,10,2,18,9,1,0
-2,Liverpool,Home,2,0,Ganado,3,19,8,8,2,9,4,10,7,2,0
-3,Liverpool,Away,3,0,Ganado,3,11,8,3,3,2,5,7,7,1,0
-4,Liverpool,Home,0,1,Perdido,0,14,5,5,3,7,2,15,6,4,0
-5,Liverpool,Home,3,0,Ganado,3,19,19,13,6,3,9,10,12,1,0
-6,Liverpool,Away,2,1,Ganado,3,10,8,6,3,10,2,8,16,3,0
-7,Liverpool,Away,1,0,Ganado,3,16,9,4,5,8,3,15,7,2,0
-1,Man City,Away,2,0,Ganado,3,11,10,5,3,3,4,9,12,1,0
-2,Man City,Home,4,1,Ganado,3,14,1,5,1,10,1,4,15,2,0
-3,Man City,Away,3,1,Ganado,3,23,10,8,2,11,3,3,10,2,0
-4,Man City,Home,2,1,Ganado,3,18,8,7,5,12,3,9,3,3,0
-5,Man City,Home,2,2,Empate,1,33,5,11,3,8,2,7,10,3,0
-6,Man City,Away,1,1,Empate,1,16,11,6,4,6,5,10,14,4,0
-7,Man City,Home,3,2,Ganado,3,20,11,7,4,8,3,4,10,2,0
-1,Man United,Home,1,0,Ganado,3,14,10,5,2,7,8,12,10,2,0
-2,Man United,Away,1,2,Perdido,0,11,14,4,5,4,4,13,9,2,0
-3,Man United,Home,0,3,Perdido,0,8,11,3,3,5,2,7,7,4,0
-4,Man United,Away,3,0,Ganado,3,20,6,10,4,7,0,14,11,4,0
-5,Man United,Away,0,0,Empate,1,15,9,6,4,11,4,12,7,1,0
-6,Man United,Home,0,3,Perdido,0,11,24,2,10,5,3,16,14,5,1
-7,Man United,Away,0,0,Empate,1,10,11,4,1,3,6,11,12,5,0
-1,Newcastle,Home,1,0,Ganado,3,3,19,1,4,3,12,15,16,2,1
-2,Newcastle,Away,1,1,Empate,1,14,16,5,4,9,8,8,19,2,0
-3,Newcastle,Home,2,1,Ganado,3,9,20,3,6,7,12,16,13,4,0
-4,Newcastle,Away,2,1,Ganado,3,14,12,6,5,7,4,6,17,3,0
-5,Newcastle,Away,1,3,Perdido,0,15,22,4,11,0,6,8,16,0,0
-6,Newcastle,Home,1,1,Empate,1,11,16,4,6,5,6,14,10,4,0
-7,Newcastle,Away,0,0,Empate,1,14,8,3,2,10,0,8,12,2,0
-1,Nott'm Forest,Home,1,1,Empate,1,14,13,8,4,2,6,17,8,1,0
-2,Nott'm Forest,Away,1,0,Ganado,3,23,5,8,1,10,4,14,14,3,0
-3,Nott'm Forest,Home,1,1,Empate,1,16,11,5,3,7,3,15,18,3,0
-4,Nott'm Forest,Away,1,0,Ganado,3,5,14,3,5,2,7,6,15,4,0
-5,Nott'm Forest,Away,2,2,Empate,1,4,14,3,3,1,9,11,12,4,1
-6,Nott'm Forest,Home,0,1,Perdido,0,11,14,1,2,6,5,11,15,2,0
-7,Nott'm Forest,Away,1,1,Empate,1,16,22,9,8,3,11,11,12,2,1
-1,Southampton,Away,0,1,Perdido,0,19,3,4,1,12,3,16,15,4,0
-2,Southampton,Home,0,1,Perdido,0,5,23,1,8,4,10,14,14,3,0
-3,Southampton,Away,1,3,Perdido,0,18,20,6,7,8,2,7,10,1,0
-4,Southampton,Home,0,3,Perdido,0,6,20,4,10,0,7,11,14,1,1
-5,Southampton,Home,1,1,Empate,1,11,13,3,6,2,10,16,16,4,0
-6,Southampton,Away,1,3,Perdido,0,9,14,3,6,4,7,12,19,5,0
-7,Southampton,Away,1,3,Perdido,0,8,29,2,6,1,13,9,10,3,0
-1,Tottenham,Away,1,1,Empate,1,15,7,7,3,13,2,12,11,1,0
-2,Tottenham,Home,4,0,Ganado,3,13,10,7,1,12,5,11,15,0,0
-3,Tottenham,Away,1,2,Perdido,0,20,9,6,3,12,7,13,16,4,0
-4,Tottenham,Home,0,1,Perdido,0,15,7,5,4,7,6,13,10,5,0
-5,Tottenham,Home,3,1,Ganado,3,23,6,10,6,9,4,11,9,3,0
-6,Tottenham,Away,3,0,Ganado,3,24,11,10,2,3,5,14,16,3,0
-7,Tottenham,Away,2,3,Perdido,0,13,11,3,4,7,4,10,14,2,0
-1,West Ham,Home,1,2,Perdido,0,14,15,3,3,5,3,18,11,1,0
-2,West Ham,Away,2,0,Ganado,3,18,14,3,2,3,3,17,9,1,0
-3,West Ham,Home,1,3,Perdido,0,10,23,2,8,3,11,10,3,3,0
-4,West Ham,Away,1,1,Empate,1,11,21,3,5,2,3,18,15,3,0
-5,West Ham,Home,0,3,Perdido,0,15,12,7,5,6,5,17,9,5,0
-6,West Ham,Away,1,1,Empate,1,19,8,3,3,7,7,11,2,3,0
-7,West Ham,Home,4,1,Ganado,3,23,9,13,2,5,5,12,6,0,0
-1,Wolves,Away,0,2,Perdido,0,9,18,3,6,2,8,14,17,2,0
-2,Wolves,Home,2,6,Perdido,0,12,14,4,8,5,5,13,13,2,0
-3,Wolves,Away,1,1,Empate,1,11,16,3,5,3,7,18,15,4,0
-4,Wolves,Home,1,2,Perdido,0,12,14,5,6,4,7,17,6,3,0
-5,Wolves,Away,1,3,Perdido,0,10,9,4,4,5,6,16,11,6,0
-6,Wolves,Home,1,2,Perdido,0,8,10,3,6,2,10,16,8,2,0
-7,Wolves,Away,3,5,Perdido,0,17,19,6,12,3,10,10,9,3,0
+Jornada,Equipo,Ubicacion,Goles Anotados ,Goles En Contra,Resultado,Puntos,Disparos Realizados ,Disparos Recibidos,Disparos a Puerta Realizados,Disparos a Puerta Recibidos,Faltas Cometidas,Faltas Recibidas,Tiros de Esquina a Favor,Tiros de Esquina en Contra,Tarjetas Amarillas ,Tarjetas Rojas,Referee
+1,Arsenal,Home,2,0,Ganado,3,18,9,6,3,8,2,17,14,2,0,
+1,Brentford,Home,2,1,Ganado,3,9,14,5,6,4,7,6,15,1,0,
+1,Chelsea,Home,0,2,Perdido,0,10,11,3,5,4,3,12,9,1,0,
+1,Everton,Home,0,3,Perdido,0,9,10,1,5,1,5,8,8,1,1,
+1,Ipswich,Home,0,2,Perdido,0,7,18,2,5,2,10,9,18,3,0,
+1,Leicester,Home,1,1,Empate,1,7,15,3,7,2,13,11,12,1,0,
+1,Man United,Home,1,0,Ganado,3,14,10,5,2,7,8,12,10,2,0,
+1,Newcastle,Home,1,0,Ganado,3,3,19,1,4,3,12,15,16,2,1,
+1,Nott'm Forest,Home,1,1,Empate,1,14,13,8,4,2,6,17,8,1,0,
+1,West Ham,Home,1,2,Perdido,0,14,15,3,3,5,3,18,11,1,0,
+2,Aston Villa,Home,0,2,Perdido,0,11,9,3,4,4,1,8,15,1,0,
+2,Bournemouth,Home,1,1,Empate,1,16,14,4,5,8,9,19,8,2,0,
+2,Brighton,Home,2,1,Ganado,3,14,11,5,4,4,4,9,13,1,0,
+2,Crystal Palace,Home,0,2,Perdido,0,14,18,2,3,3,3,9,17,1,0,
+2,Fulham,Home,2,1,Ganado,3,18,10,6,4,7,5,14,13,2,0,
+2,Liverpool,Home,2,0,Ganado,3,19,8,8,2,9,4,10,7,2,0,
+2,Man City,Home,4,1,Ganado,3,14,1,5,1,10,1,4,15,2,0,
+2,Southampton,Home,0,1,Perdido,0,5,23,1,8,4,10,14,14,3,0,
+2,Tottenham,Home,4,0,Ganado,3,13,10,7,1,12,5,11,15,0,0,
+2,Wolves,Home,2,6,Perdido,0,12,14,4,8,5,5,13,13,2,0,
+3,Arsenal,Home,1,1,Empate,1,11,22,7,4,3,7,12,7,3,1,
+3,Brentford,Home,3,1,Ganado,3,20,18,7,6,2,8,10,7,2,0,
+3,Chelsea,Home,1,1,Empate,1,13,9,7,3,4,5,9,13,4,0,
+3,Everton,Home,2,3,Perdido,0,18,17,8,7,8,4,6,1,2,0,
+3,Ipswich,Home,1,1,Empate,1,11,9,4,4,8,6,15,15,2,0,
+3,Leicester,Home,1,2,Perdido,0,9,10,3,5,1,4,13,21,4,0,
+3,Man United,Home,0,3,Perdido,0,8,11,3,3,5,2,7,7,4,0,
+3,Newcastle,Home,2,1,Ganado,3,9,20,3,6,7,12,16,13,4,0,
+3,Nott'm Forest,Home,1,1,Empate,1,16,11,5,3,7,3,15,18,3,0,
+3,West Ham,Home,1,3,Perdido,0,10,23,2,8,3,11,10,3,3,0,
+4,Aston Villa,Home,3,2,Ganado,3,17,6,8,2,6,2,10,12,1,0,
+4,Bournemouth,Home,0,1,Perdido,0,19,10,7,3,6,3,16,9,6,0,
+4,Brighton,Home,0,0,Empate,1,21,6,6,1,9,2,14,16,4,0,
+4,Crystal Palace,Home,2,2,Empate,1,20,9,4,4,5,2,11,15,0,0,
+4,Fulham,Home,1,1,Empate,1,21,11,5,3,3,2,15,18,2,0,
+4,Liverpool,Home,0,1,Perdido,0,14,5,5,3,7,2,15,6,4,0,
+4,Man City,Home,2,1,Ganado,3,18,8,7,5,12,3,9,3,3,0,
+4,Southampton,Home,0,3,Perdido,0,6,20,4,10,0,7,11,14,1,1,
+4,Tottenham,Home,0,1,Perdido,0,15,7,5,4,7,6,13,10,5,0,
+4,Wolves,Home,1,2,Perdido,0,12,14,5,6,4,7,17,6,3,0,
+5,Aston Villa,Home,3,1,Ganado,3,9,10,4,4,6,5,11,16,3,0,
+5,Brighton,Home,2,2,Empate,1,14,4,3,3,9,1,12,11,3,0,
+5,Crystal Palace,Home,0,0,Empate,1,9,15,4,6,4,11,7,12,3,0,
+5,Fulham,Home,3,1,Ganado,3,22,15,11,4,6,0,16,8,6,0,
+5,Leicester,Home,1,1,Empate,1,12,16,2,5,6,1,11,12,1,0,
+5,Liverpool,Home,3,0,Ganado,3,19,19,13,6,3,9,10,12,1,0,
+5,Man City,Home,2,2,Empate,1,33,5,11,3,8,2,7,10,3,0,
+5,Southampton,Home,1,1,Empate,1,11,13,3,6,2,10,16,16,4,0,
+5,Tottenham,Home,3,1,Ganado,3,23,6,10,6,9,4,11,9,3,0,
+5,West Ham,Home,0,3,Perdido,0,15,12,7,5,6,5,17,9,5,0,
+6,Arsenal,Home,4,2,Ganado,3,36,5,16,3,17,0,11,6,2,0,
+6,Bournemouth,Home,3,1,Ganado,3,14,9,6,3,7,4,19,12,2,0,
+6,Brentford,Home,1,1,Empate,1,8,19,3,3,7,7,2,11,2,0,
+6,Chelsea,Home,4,2,Ganado,3,15,15,7,5,8,2,11,8,3,0,
+6,Everton,Home,2,1,Ganado,3,8,17,2,5,5,8,13,11,2,0,
+6,Ipswich,Home,2,2,Empate,1,15,7,5,3,10,0,10,14,4,0,
+6,Man United,Home,0,3,Perdido,0,11,24,2,10,5,3,16,14,5,1,
+6,Newcastle,Home,1,1,Empate,1,11,16,4,6,5,6,14,10,4,0,
+6,Nott'm Forest,Home,0,1,Perdido,0,11,14,1,2,6,5,11,15,2,0,
+6,Wolves,Home,1,2,Perdido,0,8,10,3,6,2,10,16,8,2,0,
+7,Arsenal,Home,3,1,Ganado,3,29,8,6,2,13,1,10,9,0,0,
+7,Aston Villa,Home,0,0,Empate,1,11,10,1,4,6,3,12,11,1,0,
+7,Brentford,Home,5,3,Ganado,3,19,17,12,6,10,3,9,10,2,0,
+7,Brighton,Home,3,2,Ganado,3,11,13,4,3,4,7,14,10,2,0,
+7,Chelsea,Home,1,1,Empate,1,22,16,8,9,11,3,12,11,6,0,
+7,Crystal Palace,Home,0,1,Perdido,0,9,16,5,4,3,8,7,15,4,0,
+7,Everton,Home,0,0,Empate,1,8,14,2,3,0,10,12,8,1,0,
+7,Leicester,Home,1,0,Ganado,3,6,17,2,2,0,9,12,14,4,0,
+7,Man City,Home,3,2,Ganado,3,20,11,7,4,8,3,4,10,2,0,
+7,West Ham,Home,4,1,Ganado,3,23,9,13,2,5,5,12,6,0,0,
+1,Aston Villa,Away,2,1,Ganado,3,15,14,3,3,3,5,11,18,2,0,
+1,Bournemouth,Away,1,1,Empate,1,13,14,4,8,6,2,8,17,3,0,
+1,Brighton,Away,3,0,Ganado,3,10,9,5,1,5,1,8,8,1,0,
+1,Crystal Palace,Away,1,2,Perdido,0,14,9,6,5,7,4,15,6,5,0,
+1,Fulham,Away,0,1,Perdido,0,10,14,2,5,8,7,10,12,3,0,
+1,Liverpool,Away,2,0,Ganado,3,18,7,5,2,10,2,18,9,1,0,
+1,Man City,Away,2,0,Ganado,3,11,10,5,3,3,4,9,12,1,0,
+1,Southampton,Away,0,1,Perdido,0,19,3,4,1,12,3,16,15,4,0,
+1,Tottenham,Away,1,1,Empate,1,15,7,7,3,13,2,12,11,1,0,
+1,Wolves,Away,0,2,Perdido,0,9,18,3,6,2,8,14,17,2,0,
+2,Arsenal,Away,2,0,Ganado,3,9,11,4,3,1,4,15,8,3,0,
+2,Brentford,Away,0,2,Perdido,0,8,19,2,8,4,9,7,10,3,0,
+2,Chelsea,Away,6,2,Ganado,3,14,12,8,4,5,5,13,13,3,0,
+2,Everton,Away,0,4,Perdido,0,10,13,1,7,5,12,15,11,0,0,
+2,Ipswich,Away,1,4,Perdido,0,1,14,1,5,1,10,15,4,3,0,
+2,Leicester,Away,1,2,Perdido,0,10,18,4,6,5,7,13,14,2,0,
+2,Man United,Away,1,2,Perdido,0,11,14,4,5,4,4,13,9,2,0,
+2,Newcastle,Away,1,1,Empate,1,14,16,5,4,9,8,8,19,2,0,
+2,Nott'm Forest,Away,1,0,Ganado,3,23,5,8,1,10,4,14,14,3,0,
+2,West Ham,Away,2,0,Ganado,3,18,14,3,2,3,3,17,9,1,0,
+3,Aston Villa,Away,2,1,Ganado,3,10,9,5,3,4,1,21,13,5,0,
+3,Bournemouth,Away,3,2,Ganado,3,17,18,7,8,4,8,1,6,1,0,
+3,Brighton,Away,1,1,Empate,1,22,11,4,7,7,3,7,12,2,0,
+3,Crystal Palace,Away,1,1,Empate,1,9,13,3,7,5,4,13,9,2,0,
+3,Fulham,Away,1,1,Empate,1,9,11,4,4,6,8,15,15,3,0,
+3,Liverpool,Away,3,0,Ganado,3,11,8,3,3,2,5,7,7,1,0,
+3,Man City,Away,3,1,Ganado,3,23,10,8,2,11,3,3,10,2,0,
+3,Southampton,Away,1,3,Perdido,0,18,20,6,7,8,2,7,10,1,0,
+3,Tottenham,Away,1,2,Perdido,0,20,9,6,3,12,7,13,16,4,0,
+3,Wolves,Away,1,1,Empate,1,11,16,3,5,3,7,18,15,4,0,
+4,Arsenal,Away,1,0,Ganado,3,7,15,4,5,6,7,10,13,3,0,
+4,Brentford,Away,1,2,Perdido,0,8,18,5,7,3,12,3,9,1,0,
+4,Chelsea,Away,1,0,Ganado,3,10,19,3,7,3,6,9,16,8,0,
+4,Everton,Away,2,3,Perdido,0,6,17,2,8,2,6,12,10,4,0,
+4,Ipswich,Away,0,0,Empate,1,6,21,1,6,2,9,16,14,3,0,
+4,Leicester,Away,2,2,Empate,1,9,20,4,4,2,5,15,11,3,0,
+4,Man United,Away,3,0,Ganado,3,20,6,10,4,7,0,14,11,4,0,
+4,Newcastle,Away,2,1,Ganado,3,14,12,6,5,7,4,6,17,3,0,
+4,Nott'm Forest,Away,1,0,Ganado,3,5,14,3,5,2,7,6,15,4,0,
+4,West Ham,Away,1,1,Empate,1,11,21,3,5,2,3,18,15,3,0,
+5,Arsenal,Away,2,2,Empate,1,5,33,3,11,2,8,10,7,4,1,
+5,Bournemouth,Away,0,3,Perdido,0,19,19,6,13,9,3,12,10,4,0,
+5,Brentford,Away,1,3,Perdido,0,6,23,6,10,4,9,9,11,1,0,
+5,Chelsea,Away,3,0,Ganado,3,12,15,5,7,5,6,9,17,2,0,
+5,Everton,Away,1,1,Empate,1,16,12,5,2,1,6,12,11,2,0,
+5,Ipswich,Away,1,1,Empate,1,13,11,6,3,10,2,16,16,4,0,
+5,Man United,Away,0,0,Empate,1,15,9,6,4,11,4,12,7,1,0,
+5,Newcastle,Away,1,3,Perdido,0,15,22,4,11,0,6,8,16,0,0,
+5,Nott'm Forest,Away,2,2,Empate,1,4,14,3,3,1,9,11,12,4,1,
+5,Wolves,Away,1,3,Perdido,0,10,9,4,4,5,6,16,11,6,0,
+6,Aston Villa,Away,2,2,Empate,1,7,15,3,5,0,10,14,10,1,0,
+6,Brighton,Away,2,4,Perdido,0,15,15,5,7,2,8,8,11,2,0,
+6,Crystal Palace,Away,1,2,Perdido,0,17,8,5,2,8,5,11,13,1,0,
+6,Fulham,Away,1,0,Ganado,3,14,11,2,1,5,6,15,11,4,0,
+6,Leicester,Away,2,4,Perdido,0,5,36,3,16,0,17,6,11,4,0,
+6,Liverpool,Away,2,1,Ganado,3,10,8,6,3,10,2,8,16,3,0,
+6,Man City,Away,1,1,Empate,1,16,11,6,4,6,5,10,14,4,0,
+6,Southampton,Away,1,3,Perdido,0,9,14,3,6,4,7,12,19,5,0,
+6,Tottenham,Away,3,0,Ganado,3,24,11,10,2,3,5,14,16,3,0,
+6,West Ham,Away,1,1,Empate,1,19,8,3,3,7,7,11,2,3,0,
+7,Bournemouth,Away,0,1,Perdido,0,17,6,2,2,9,0,14,12,1,0,
+7,Fulham,Away,2,3,Perdido,0,11,20,4,7,3,8,10,4,1,0,
+7,Ipswich,Away,1,4,Perdido,0,9,23,2,13,5,5,6,12,1,0,
+7,Liverpool,Away,1,0,Ganado,3,16,9,4,5,8,3,15,7,2,0,
+7,Man United,Away,0,0,Empate,1,10,11,4,1,3,6,11,12,5,0,
+7,Newcastle,Away,0,0,Empate,1,14,8,3,2,10,0,8,12,2,0,
+7,Nott'm Forest,Away,1,1,Empate,1,16,22,9,8,3,11,11,12,2,1,
+7,Southampton,Away,1,3,Perdido,0,8,29,2,6,1,13,9,10,3,0,
+7,Tottenham,Away,2,3,Perdido,0,13,11,3,4,7,4,10,14,2,0,
+7,Wolves,Away,3,5,Perdido,0,17,19,6,12,3,10,10,9,3,0,
+8,Bournemouth,Home,2,0,Ganado,3,13,6,4,1,12,11,7,4,1,0,
+8,Fulham,Home,1,3,Perdido,0,10,14,4,5,8,11,6,11,3,1,
+8,Ipswich,Home,0,2,Perdido,0,13,11,2,8,12,10,5,8,1,0,
+8,Liverpool,Home,2,1,Ganado,3,9,12,5,2,12,13,1,6,4,0,
+8,Man United,Home,2,1,Ganado,3,23,8,11,2,14,5,9,2,2,0,
+8,Newcastle,Home,0,1,Perdido,0,21,10,6,5,11,9,9,4,2,0,
+8,Nott'm Forest,Home,1,0,Ganado,3,20,20,6,7,9,12,6,6,2,0,
+8,Southampton,Home,2,3,Perdido,0,14,18,7,4,10,10,10,6,5,1,
+8,Tottenham,Home,4,1,Ganado,3,22,11,7,4,10,15,13,5,1,0,
+8,Wolves,Home,1,2,Perdido,0,3,22,2,7,8,5,1,18,4,0,
+8,Arsenal,Away,0,2,Perdido,0,6,13,1,4,11,12,4,7,1,1,
+8,Aston Villa,Away,3,1,Ganado,3,14,10,5,4,11,8,11,6,3,1,
+8,Brentford,Away,1,2,Perdido,0,8,23,2,11,5,14,2,9,2,0,
+8,Brighton,Away,1,0,Ganado,3,10,21,5,6,9,11,4,9,2,0,
+8,Chelsea,Away,1,2,Perdido,0,12,9,2,5,13,12,6,1,3,0,
+8,Crystal Palace,Away,0,1,Perdido,0,20,20,7,6,12,9,6,6,3,0,
+8,Everton,Away,2,0,Ganado,3,11,13,8,2,10,12,8,5,1,0,
+8,Leicester,Away,3,2,Ganado,3,18,14,4,7,10,10,6,10,3,0,
+8,Man City,Away,2,1,Ganado,3,22,3,7,2,5,8,18,1,1,0,
+8,West Ham,Away,1,4,Perdido,0,11,22,4,7,15,10,5,13,3,1,
